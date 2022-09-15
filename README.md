@@ -1,1 +1,1 @@
-# trilha-explorer-nlw-rocketseat
+nlw-esports-explorer
