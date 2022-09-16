@@ -9,7 +9,7 @@ Projeto construido do evento Next Level Week da Rocketseat.
 [🔗Clique aqui para acessar](https:luizcaldeira95.github.io/nlw-esports-explorer)
 
 
-## 🤖 Tecnologias.
+## 🤖 Tecnologias
 
 - HTML
 - CSS
