@@ -1,12 +1,22 @@
-Projeto NLW-Trilha Explorar 
+# NLW eSports 
+
+![preview](./.github/Priview.png)
+
+> Trilha Explorer 
+
+Projeto construido do evento Next Level Week da Rocketseat.
+
+[🔗Clique aqui para acessar](https:luizcaldeira95.github.io/nlw-esports-explorer)
 
 
+## 🤖 Tecnologias.
 
+- HTML
+- CSS
+- Git e Github
 
-Projeto criado em conjunto com o professor Mayk Brito
-para as aulas da Trilha Explorer.
-O objetivo é criar um projeto utilizando php e css
-para criar um site, com a tematica gamer, em que seja 
-posivel organizar, jogos, streamers favoritos e redes sociais
-do usuário.
+## ✉️ contato
+
+luizcaldeira1995@gmail.com
+
 
